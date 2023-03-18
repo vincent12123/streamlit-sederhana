@@ -1,0 +1,22 @@
+h1 {
+    color: #007bff;
+}
+
+table {
+    font-size: 14px;
+}
+
+th {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
