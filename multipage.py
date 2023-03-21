@@ -21,7 +21,7 @@ def intro():
         - Nama Barang
         - harga
         - Jumlah Pembelian
-        ### Untuk Tutorial yang lain silahkan masuk ke [Website saya](sukardinotes.karyabangsa.sch.id)
+        ### Untuk Tutorial yang lain silahkan masuk ke sukardinotes.karyabangsa.sch.id
     """
     )
 
